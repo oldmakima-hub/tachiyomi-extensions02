@@ -1,0 +1,8 @@
+ext {
+    extName = 'Doujindesu'
+    pkgNameSuffix = 'id.doujindesu'
+    extClass = '.Doujindesu'
+    extVersionCode = 1
+    isNsfw = true
+}
+
